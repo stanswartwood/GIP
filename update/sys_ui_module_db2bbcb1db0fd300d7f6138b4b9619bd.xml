@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Global Indirect Procurement">d72bbcb1db0fd300d7f6138b4b9619bb</application>
+        <filter/>
+        <name>Global Indirect Procurement</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_tebc2_global_ind.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>mleighton</sys_created_by>
+        <sys_created_on>2018-07-02 16:21:16</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>db2bbcb1db0fd300d7f6138b4b9619bd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Global Indirect Procurement</sys_name>
+        <sys_package display_value="Global Indirect Procurement" source="x_tebc2_global_ind">be2b70b1db0fd300d7f6138b4b96190c</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Global Indirect Procurement">be2b70b1db0fd300d7f6138b4b96190c</sys_scope>
+        <sys_update_name>sys_ui_module_db2bbcb1db0fd300d7f6138b4b9619bd</sys_update_name>
+        <sys_updated_by>mleighton</sys_updated_by>
+        <sys_updated_on>2018-07-02 16:21:16</sys_updated_on>
+        <table>x_tebc2_global_ind_global_indirect_procurement</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="email_client=true" audit="true" extends="task" label="Global Indirect Procurement" max_length="40" name="x_tebc2_global_ind_global_indirect_procurement" sizeclass="1734" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" dependent="u_item" dependent_on_field="u_item" label="Type of Change" max_length="40" name="change_type" type="string" use_dependent_field="true">
+            <choice>
+                <element dependent_value="3" inactive_on_update="false" label="Temporary credit limit increase" sequence="0" value="Temporary credit limit increase"/>
+                <element dependent_value="d3f36db1dbcfd300d91118df4b9619cc" inactive_on_update="false" label="Temporary credit limit increase" sequence="0" value="Temporary credit limit increase"/>
+                <element dependent_value="3" inactive_on_update="false" label="Temporarily open a category" sequence="1" value="Temporarily open a category"/>
+                <element dependent_value="d3f36db1dbcfd300d91118df4b9619cc" inactive_on_update="false" label="Temporarily open a category" sequence="1" value="Temporarily open a category"/>
+                <element dependent_value="d3f36db1dbcfd300d91118df4b9619cc" inactive_on_update="false" label="Other" sequence="2" value="Other"/>
+                <element dependent_value="3" inactive_on_update="false" label="Other" sequence="2" value="Other"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Close code" max_length="40" name="close_code" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Purchase Order issued" sequence="0" value="Purchase Order issued"/>
+                <element inactive_on_update="false" label="Supplier added/reassessed/changed" sequence="1" value="Supplier added/reassessed/changed"/>
+                <element inactive_on_update="false" label="RFX Completed/supplier awarded" sequence="2" value="RFX Completed/supplier awarded"/>
+                <element inactive_on_update="false" label="P-card purchase" sequence="3" value="P-card purchase"/>
+                <element inactive_on_update="false" label="Training provided" sequence="4" value="Training provided"/>
+                <element inactive_on_update="false" label="IT support ticket entered" sequence="5" value="IT support ticket entered"/>
+                <element inactive_on_update="false" label="Insufficient information" sequence="6" value="Insufficient information"/>
+                <element inactive_on_update="false" label="Temporary card limit increase" sequence="7" value="Temporary card limit increase"/>
+                <element inactive_on_update="false" label="Temporary card MCC code opened" sequence="8" value="Temporary card MCC code opened"/>
+                <element inactive_on_update="false" label="Other –  see notes" sequence="9" value="9"/>
+                <element inactive_on_update="false" label="Duplicate Request" sequence="10" value="Duplicate Request"/>
+            </choice>
+        </element>
+        <element active="false" attributes="edge_encryption_enabled=true" choice="1" dependent="u_item" dependent_on_field="u_item" label="Closure Notes" max_length="40" name="closure_notes" type="string" use_dependent_field="true">
+            <choice>
+                <element dependent_value="98e12131dbcfd300d91118df4b961958" inactive_on_update="false" label="Other" sequence="0" value="Other"/>
+                <element dependent_value="e5736571dbcfd300d91118df4b9619ad" inactive="true" inactive_on_update="true" label="Temporarily open a categor" sequence="0" value="Temporarily open a categor"/>
+                <element dependent_value="e5736571dbcfd300d91118df4b9619ad" inactive_on_update="false" label="Temporary credit limit increase" sequence="0" value="Temporary credit limit increase"/>
+                <element dependent_value="e5736571dbcfd300d91118df4b9619ad" inactive_on_update="false" label="Temporarily open a category" sequence="1" value="Temporarily open a category"/>
+                <element dependent_value="e5736571dbcfd300d91118df4b9619ad" inactive_on_update="false" label="Other" sequence="2" value="Other"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Cost Savings?" max_length="40" name="u_cost_savings" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Date" max_length="40" name="u_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Item" max_length="32" name="u_item" reference="sc_cat_item_producer" reference_qual="sc_catalogs=746a1df5db4fd300d7f6138b4b9619ce^EQ" reference_qual_condition="sc_catalogs=746a1df5db4fd300d7f6138b4b9619ce^EQ" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Lever" max_length="40" name="u_lever" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Demand" sequence="0" value="Demand"/>
+                <element inactive_on_update="false" label="Negotiation" sequence="1" value="Negotiation"/>
+                <element inactive_on_update="false" label="Process Improvement" sequence="2" value="Process Improvement"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Other Currency" max_length="40" name="u_other_currency" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="2 - Normal" label="Priority" max_length="40" name="u_priority" type="string">
+            <choice>
+                <element inactive_on_update="false" label="1 - Critical" sequence="0" value="1 - Critical"/>
+                <element inactive_on_update="false" label="2 - Normal" sequence="1" value="2 - Normal"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Reassign to count" max_length="40" name="u_reassign_to_count" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Requested for" max_length="32" name="u_requested_for" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Savings Type" max_length="40" name="u_savings_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Hard" sequence="0" value="Hard"/>
+                <element inactive_on_update="false" label="Soft" sequence="1" value="Soft"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Total Savings-Amount" max_length="40" name="u_total_savings_amount" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Total Savings-Currency" max_length="40" name="u_total_savings_currency" type="string">
+            <choice>
+                <element inactive_on_update="false" label="USD" sequence="0" value="usd"/>
+                <element inactive_on_update="false" label="INR" sequence="1" value="inr"/>
+                <element inactive_on_update="false" label="CAD" sequence="2" value="cad"/>
+                <element inactive_on_update="false" label="JPY" sequence="3" value="jpy"/>
+                <element inactive_on_update="false" label="EUR" sequence="4" value="eur"/>
+                <element inactive_on_update="false" label="VND" sequence="5" value="vnd"/>
+                <element inactive_on_update="false" label="KRO" sequence="6" value="kro"/>
+                <element inactive_on_update="false" label="GBP" sequence="7" value="gbp"/>
+                <element inactive_on_update="false" label="Other" sequence="8" value="other"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="True" max_length="40" name="u_true" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Reason for this being critical?" max_length="200" name="why_critical" type="string"/>
+    </element>
+</database>

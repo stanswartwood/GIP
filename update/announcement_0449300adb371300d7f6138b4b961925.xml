@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="announcement">
+    <announcement action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <click_target/>
+        <details/>
+        <details_link_text/>
+        <details_page/>
+        <details_url/>
+        <dismiss_options>dismissible</dismiss_options>
+        <display_first>false</display_first>
+        <display_style display_value="Urgent">339ea11ae7d4030075c2a117c2f6a9cf</display_style>
+        <from>2018-08-09 17:38:39</from>
+        <glyph/>
+        <glyph_alt_text/>
+        <name>GIP - Testing</name>
+        <public>true</public>
+        <roles/>
+        <summary>testing accouncements in the GIP portal</summary>
+        <sys_class_name>announcement</sys_class_name>
+        <sys_created_by>ttaylor</sys_created_by>
+        <sys_created_on>2018-08-09 17:40:35</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>0449300adb371300d7f6138b4b961925</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>GIP - Testing</sys_name>
+        <sys_package display_value="Global Indirect Procurement" source="x_tebc2_global_ind">be2b70b1db0fd300d7f6138b4b96190c</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Global Indirect Procurement">be2b70b1db0fd300d7f6138b4b96190c</sys_scope>
+        <sys_update_name>announcement_0449300adb371300d7f6138b4b961925</sys_update_name>
+        <sys_updated_by>csanusb</sys_updated_by>
+        <sys_updated_on>2018-09-14 21:34:19</sys_updated_on>
+        <title>Testing</title>
+        <to>2018-08-16 17:38:46</to>
+        <type>52fa79f8e763320075c2a117c2f6a991</type>
+    </announcement>
+    <sys_translated_text action="delete_multiple" query="documentkey=0449300adb371300d7f6138b4b961925"/>
+</record_update>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_total_savings_currency" table="x_tebc2_global_ind_global_indirect_procurement" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_total_savings_currency</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>USD</label>
+            <language>en</language>
+            <name>x_tebc2_global_ind_global_indirect_procurement</name>
+            <sequence>0</sequence>
+            <sys_created_by>ccampbell</sys_created_by>
+            <sys_created_on>2019-08-22 16:05:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>9afcc7a3db973700d7f6138b4b961912</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ccampbell</sys_updated_by>
+            <sys_updated_on>2019-08-22 16:05:38</sys_updated_on>
+            <value>usd</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_total_savings_currency</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>INR</label>
+            <language>en</language>
+            <name>x_tebc2_global_ind_global_indirect_procurement</name>
+            <sequence>1</sequence>
+            <sys_created_by>ccampbell</sys_created_by>
+            <sys_created_on>2019-08-22 16:05:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>defcc7a3db973700d7f6138b4b961914</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ccampbell</sys_updated_by>
+            <sys_updated_on>2019-08-22 16:05:38</sys_updated_on>
+            <value>inr</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_total_savings_currency</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CAD</label>
+            <language>en</language>
+            <name>x_tebc2_global_ind_global_indirect_procurement</name>
+            <sequence>2</sequence>
+            <sys_created_by>ccampbell</sys_created_by>
+            <sys_created_on>2019-08-22 16:05:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>12fcc7a3db973700d7f6138b4b961917</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ccampbell</sys_updated_by>
+            <sys_updated_on>2019-08-22 16:05:38</sys_updated_on>
+            <value>cad</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_total_savings_currency</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>JPY</label>
+            <language>en</language>
+            <name>x_tebc2_global_ind_global_indirect_procurement</name>
+            <sequence>3</sequence>
+            <sys_created_by>ccampbell</sys_created_by>
+            <sys_created_on>2019-08-22 16:05:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>52fcc7a3db973700d7f6138b4b961919</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ccampbell</sys_updated_by>
+            <sys_updated_on>2019-08-22 16:05:38</sys_updated_on>
+            <value>jpy</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_total_savings_currency</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>EUR</label>
+            <language>en</language>
+            <name>x_tebc2_global_ind_global_indirect_procurement</name>
+            <sequence>4</sequence>
+            <sys_created_by>ccampbell</sys_created_by>
+            <sys_created_on>2019-08-22 16:05:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>92fcc7a3db973700d7f6138b4b96191b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ccampbell</sys_updated_by>
+            <sys_updated_on>2019-08-22 16:05:38</sys_updated_on>
+            <value>eur</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_total_savings_currency</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>VND</label>
+            <language>en</language>
+            <name>x_tebc2_global_ind_global_indirect_procurement</name>
+            <sequence>5</sequence>
+            <sys_created_by>ccampbell</sys_created_by>
+            <sys_created_on>2019-08-22 16:05:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>d2fcc7a3db973700d7f6138b4b96191d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ccampbell</sys_updated_by>
+            <sys_updated_on>2019-08-22 16:05:38</sys_updated_on>
+            <value>vnd</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_total_savings_currency</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>KRO</label>
+            <language>en</language>
+            <name>x_tebc2_global_ind_global_indirect_procurement</name>
+            <sequence>6</sequence>
+            <sys_created_by>ccampbell</sys_created_by>
+            <sys_created_on>2019-08-22 16:05:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>16fcc7a3db973700d7f6138b4b96191f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ccampbell</sys_updated_by>
+            <sys_updated_on>2019-08-22 16:05:38</sys_updated_on>
+            <value>kro</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_total_savings_currency</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>GBP</label>
+            <language>en</language>
+            <name>x_tebc2_global_ind_global_indirect_procurement</name>
+            <sequence>7</sequence>
+            <sys_created_by>ccampbell</sys_created_by>
+            <sys_created_on>2019-08-22 16:05:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>56fcc7a3db973700d7f6138b4b961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ccampbell</sys_updated_by>
+            <sys_updated_on>2019-08-22 16:05:38</sys_updated_on>
+            <value>gbp</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_total_savings_currency</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_tebc2_global_ind_global_indirect_procurement</name>
+            <sequence>8</sequence>
+            <sys_created_by>ccampbell</sys_created_by>
+            <sys_created_on>2019-08-22 16:05:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>96fcc7a3db973700d7f6138b4b961923</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ccampbell</sys_updated_by>
+            <sys_updated_on>2019-08-22 16:05:38</sys_updated_on>
+            <value>other</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_total_savings_currency</element>
+            <name>x_tebc2_global_ind_global_indirect_procurement</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>ccampbell</sys_created_by>
+            <sys_created_on>2019-08-22 16:05:38</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>16fcc7a3db973700d7f6138b4b961913</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_total_savings_currency</sys_name>
+            <sys_package display_value="Global Indirect Procurement" source="x_tebc2_global_ind">be2b70b1db0fd300d7f6138b4b96190c</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global Indirect Procurement">be2b70b1db0fd300d7f6138b4b96190c</sys_scope>
+            <sys_update_name>sys_choice_x_tebc2_global_ind_global_indirect_procurement_u_total_savings_currency</sys_update_name>
+            <sys_updated_by>ccampbell</sys_updated_by>
+            <sys_updated_on>2019-08-22 16:05:38</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

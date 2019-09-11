@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_content">
+    <sc_cat_item_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <category display_value="Supplier">443e117ddb8fd300d91118df4b96194c</category>
+        <content_type>external</content_type>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan/>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description/>
+        <entitlement_script/>
+        <flow_designer_flow/>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon>77f8432cdb646700d91118df4b961939</icon>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <kb_article/>
+        <list_price>0</list_price>
+        <location/>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <module/>
+        <name>Supplier Lookup</name>
+        <no_attachment_v2>false</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>false</no_cart_v2>
+        <no_delivery_time_v2>false</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>false</no_quantity_v2>
+        <no_search>false</no_search>
+        <no_wishlist_v2>false</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <picture/>
+        <preview>JavaScript: popupOpenStandard("https://myworknet.terumobct.com/resources/myWorkNet%20Files/Approved%20Supplier%20list.XLS?sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <request_method/>
+        <roles/>
+        <sc_catalogs>746a1df5db4fd300d7f6138b4b9619ce</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <short_description>Supplier Lookup</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <sys_class_name>sc_cat_item_content</sys_class_name>
+        <sys_created_by>ttaylor</sys_created_by>
+        <sys_created_on>2018-08-24 21:17:36</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>194a7e72db4c6300d7f6138b4b961973</sys_id>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_name>Supplier Lookup</sys_name>
+        <sys_package display_value="Global Indirect Procurement" source="x_tebc2_global_ind">be2b70b1db0fd300d7f6138b4b96190c</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Global Indirect Procurement">be2b70b1db0fd300d7f6138b4b96190c</sys_scope>
+        <sys_update_name>sc_cat_item_content_194a7e72db4c6300d7f6138b4b961973</sys_update_name>
+        <sys_updated_by>mleighton</sys_updated_by>
+        <sys_updated_on>2018-09-11 19:02:41</sys_updated_on>
+        <target>_blank</target>
+        <template/>
+        <type>item</type>
+        <u_og_include>false</u_og_include>
+        <u_use_item_task_stages>true</u_use_item_task_stages>
+        <url>https://myworknet.terumobct.com/resources/myWorkNet%20Files/Approved%20Supplier%20list.XLS</url>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=194a7e72db4c6300d7f6138b4b961973"/>
+    <fx_price action="delete_multiple" query="id=194a7e72db4c6300d7f6138b4b961973"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>194a7e72db4c6300d7f6138b4b961973</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>ttaylor</sys_created_by>
+        <sys_created_on>2018-08-24 21:17:36</sys_created_on>
+        <sys_id>384b36b2db4c6300d7f6138b4b9619dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>ttaylor</sys_updated_by>
+        <sys_updated_on>2018-08-24 21:17:36</sys_updated_on>
+        <table>sc_cat_item_content</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_price</field>
+        <id>194a7e72db4c6300d7f6138b4b961973</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>ttaylor</sys_created_by>
+        <sys_created_on>2018-08-24 21:17:36</sys_created_on>
+        <sys_id>704b36b2db4c6300d7f6138b4b9619de</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>ttaylor</sys_updated_by>
+        <sys_updated_on>2018-08-24 21:17:36</sys_updated_on>
+        <table>sc_cat_item_content</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#ffffff</average_image_color>
+        <chunk_size_bytes>734003</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/jpeg</content_type>
+        <file_name>icon</file_name>
+        <image_height>52</image_height>
+        <image_width>50</image_width>
+        <size_bytes>1397</size_bytes>
+        <size_compressed>1228</size_compressed>
+        <state>available</state>
+        <sys_created_by>mleighton</sys_created_by>
+        <sys_created_on>2018-09-11 19:02:41</sys_created_on>
+        <sys_id>77f8432cdb646700d91118df4b961939</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>guest</sys_updated_by>
+        <sys_updated_on>2019-04-19 17:12:04</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item_content</table_name>
+        <table_sys_id>194a7e72db4c6300d7f6138b4b961973</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAPt/4/8DBgEvN083BkYg9ABChv//GOR9XB1dFEJSkzPy8nPy0zNTixU885L1FMIM
+9QwMGf7fZmhhYGVl5WDl4GFn5+Hh5OTk4eUBAl4SACMrBwcXOxfIAF4eLpK0QsD/I4yLGBgYWRnB
+gAEKGJmYWVjZ2Dk4ubgZGZgZYQBDUoCBiZGZmYmFmZWVhQUoUwuUY2ARZBVSNHRkEw5MZFcqFDFq
+nLiQQ9lp40HRoIsfVIyTipo4ucTEJSSlVNXUNTS1TEzNzC0srZxdXN3cPTy9gkNCw8IjIqOSU1LT
+0jMys4pLSsvKKyqrmlta29o7OrsmTZ4yddr0GTNnLVq8ZOmy5StWrtq0ecvWbdt37Nx16PCRo8eO
+nzh56tLlK1evXb9x89bDR4+fPH32/MXLVx8/ff7y9dv3Hz9/CQKdzMTCwszCDnIyI1M5yD+CLKyK
+hmxCjoHsiYXCSkaNHCJOExduPMipbBz0QTSp6CKXmIrJQ9WPIFeDHU2cm5vIcjTczXAn/z/AIMjB
+YMJgxMwIdL0gI7Mg4/9bDDzMjEAOsyCDPcNvvQYuBg3m+dOePQ+aumBDIouh0KYY0TvefCu55k/Z
+9CVTWmPtp9YiCQ2m+kNW7dN27jWqr3/Lw//3w8KkPzZ7qgOYbV6vFZ0Se/LbajfFmkerNh2JeFhz
+oUF5obpc0ipRlbwgowPMS84yiDAEsNq6FWdn65y+ZnG3/YqmUgOv3dWctY8bq5QY/Fcei+zfbRYx
+78lkB3ENJs2H3jNuSbI9mei14SuPgfuTDOaezdfS+jgubjqa7BB9pZVh/vG1DGXnDopsLhARqmtq
+MF67NSNvyafF6ipC9lwMewulTgsf+89QemXl+YUSJowzF2UJ3jsgGmN9+Pf2g6/Cn979kpN+40mp
+CONGB8lfvTe39afEnNcLU/2a/Mf975TfZ6oYjwcxMuTum84jqBJx7mjo+XUX2Oq9GC7UsFrvSnj+
+8l6DzSbr17lin6KnOu2Lnnrr3G2nqezak5yezLNI7mlgMH386DNXhH7p76tWTtb/GW6ff7P++Kb0
+pe0Hrxx5LV8mf+bbz/I/uzevuPRO5aOJ06OApK0nuZq1Uo8H+cfryDFI3O0rMOIvk1t9JKg3XJzt
+2sZa+emlN7+662bVHVuyctmSyXfro7/HnmvKtdN0esum1pMoZbx1ShVP4fa/k7h+hweec/7mvW5+
+psXXT4/v/nyc/8/aQTg6wj3nmP/Mp3k8feWGcjNfLP47laE6gPUWwzOb0DXei6Pam8wnPsltWDXt
+oK0Fw6e74n17Ow/Y2SXGbeXKTFx059nPykn71efu3jfXXvnSwUvLw/Jve2ocjbu+3fwP3/NJnsvj
+X6mf2dty9Fv8PU85t1g7p8jr83et4eZ5p2zdYMk+rY81NGBtT1No+NF1mzd5Wv68mb1ub7WsaGHe
+5Lk6OvvLvl26M3vb4qfr5u4qt73tP8ky93FFiJKoRCgD4ysGGR6Z6xflNItA6ZJhAdens0+/SC7g
+U/LQS5n0ZtWkvMlJz59ycCh8Pld83PFWg5Wsgm8u00GlVsEeHpnnV+bXXGC7UJTB+OAC0wVGBx4N
+DcZ5Ub8CmJsYHfi4NBhvHAWlRPb/NwEWxcAGdQUAAA==</data>
+        <length>1640</length>
+        <position>0</position>
+        <sys_attachment display_value="icon" sys_id="77f8432cdb646700d91118df4b961939">77f8432cdb646700d91118df4b961939</sys_attachment>
+        <sys_created_by>mleighton</sys_created_by>
+        <sys_created_on>2018-09-11 19:02:41</sys_created_on>
+        <sys_id>3bf8432cdb646700d91118df4b961939</sys_id>
+    </sys_attachment_doc>
+</record_update>

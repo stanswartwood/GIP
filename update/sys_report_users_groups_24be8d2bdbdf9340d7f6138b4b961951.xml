@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id display_value="ITSM Analysis and Operations" name="ITSM Analysis and Operations">e735bca40f1a6500b176fb1792050e15</group_id>
+        <report_id display_value="Unassigned 40 hours or more">96c9b9dfdb979340d7f6138b4b9619f6</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>ttaylor</sys_created_by>
+        <sys_created_on>2018-07-20 14:31:37</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>24be8d2bdbdf9340d7f6138b4b961951</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>96c9b9dfdb979340d7f6138b4b9619f6</sys_name>
+        <sys_package display_value="Global Indirect Procurement" source="x_tebc2_global_ind">be2b70b1db0fd300d7f6138b4b96190c</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Global Indirect Procurement">be2b70b1db0fd300d7f6138b4b96190c</sys_scope>
+        <sys_update_name>sys_report_users_groups_24be8d2bdbdf9340d7f6138b4b961951</sys_update_name>
+        <sys_updated_by>ttaylor</sys_updated_by>
+        <sys_updated_on>2018-07-20 14:31:37</sys_updated_on>
+        <user_id/>
+    </sys_report_users_groups>
+</record_update>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item/>
+        <catalog_variable>IO:ff0ace76db2b2b00d91118df4b96196e</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>ttaylor</sys_created_by>
+        <sys_created_on>2019-03-12 16:08:08</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>0f32f3cbdb0c7300d7f6138b4b961991</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>why_critical</sys_name>
+        <sys_package display_value="Global Indirect Procurement" source="x_tebc2_global_ind">be2b70b1db0fd300d7f6138b4b96190c</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Global Indirect Procurement">be2b70b1db0fd300d7f6138b4b96190c</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_0f32f3cbdb0c7300d7f6138b4b961991</sys_update_name>
+        <sys_updated_by>ttaylor</sys_updated_by>
+        <sys_updated_on>2019-03-12 16:08:08</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Set reason as mandatory when critical">9e7ff9badbe72b00d91118df4b9619d9</ui_policy>
+        <variable>why_critical</variable>
+        <variable_set display_value="GIP Critical Priority">e9dbbc41db1b1f00d91118df4b96191e</variable_set>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>

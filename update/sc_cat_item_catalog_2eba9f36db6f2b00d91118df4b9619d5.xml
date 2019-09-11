@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Create a New Purchase Order">df3a1f36db6f2b00d91118df4b961937</sc_cat_item>
+        <sc_catalog display_value="Global Indirect Procurement">746a1df5db4fd300d7f6138b4b9619ce</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>ttaylor</sys_created_by>
+        <sys_created_on>2019-02-14 23:14:50</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>2eba9f36db6f2b00d91118df4b9619d5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Global Indirect Procurement.Create a New Purchase Order</sys_name>
+        <sys_package display_value="Global Indirect Procurement" source="x_tebc2_global_ind">be2b70b1db0fd300d7f6138b4b96190c</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Global Indirect Procurement">be2b70b1db0fd300d7f6138b4b96190c</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_2eba9f36db6f2b00d91118df4b9619d5</sys_update_name>
+        <sys_updated_by>ttaylor</sys_updated_by>
+        <sys_updated_on>2019-02-14 23:14:50</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

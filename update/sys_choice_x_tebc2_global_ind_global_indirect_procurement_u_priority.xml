@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_priority" table="x_tebc2_global_ind_global_indirect_procurement" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1 - Critical</label>
+            <language>en</language>
+            <name>x_tebc2_global_ind_global_indirect_procurement</name>
+            <sequence>0</sequence>
+            <sys_created_by>ttaylor</sys_created_by>
+            <sys_created_on>2019-02-14 15:47:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>b6443132dbe72b00d91118df4b961901</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_updated_by>ttaylor</sys_updated_by>
+            <sys_updated_on>2019-03-14 14:00:05</sys_updated_on>
+            <value>1 - Critical</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2 - Normal</label>
+            <language>en</language>
+            <name>x_tebc2_global_ind_global_indirect_procurement</name>
+            <sequence>1</sequence>
+            <sys_created_by>ttaylor</sys_created_by>
+            <sys_created_on>2019-02-14 15:47:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>ba443132dbe72b00d91118df4b961903</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>ttaylor</sys_updated_by>
+            <sys_updated_on>2019-03-14 02:48:06</sys_updated_on>
+            <value>2 - Normal</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_priority</element>
+            <name>x_tebc2_global_ind_global_indirect_procurement</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>ttaylor</sys_created_by>
+            <sys_created_on>2019-02-14 15:47:17</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>0c83078adbd47f40ef18e3a84b9619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_priority</sys_name>
+            <sys_package display_value="Global Indirect Procurement" source="x_tebc2_global_ind">be2b70b1db0fd300d7f6138b4b96190c</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global Indirect Procurement">be2b70b1db0fd300d7f6138b4b96190c</sys_scope>
+            <sys_update_name>sys_choice_x_tebc2_global_ind_global_indirect_procurement_u_priority</sys_update_name>
+            <sys_updated_by>ttaylor</sys_updated_by>
+            <sys_updated_on>2019-02-14 15:47:17</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_email_client_template">
+    <sys_email_client_template action="INSERT_OR_UPDATE">
+        <blind_copied/>
+        <body/>
+        <body_html/>
+        <condition/>
+        <content_type>text/html</content_type>
+        <copied/>
+        <email_client_from_address/>
+        <from>Terumo BCT GIP Support &lt;snowprod@terumobct.com&gt;</from>
+        <from_generation_type/>
+        <name>gip_email</name>
+        <order>100</order>
+        <recipients>u_requested_for</recipients>
+        <reply_to>Terumo BCT GIP Support &lt;snowprod@terumobct.com&gt;</reply_to>
+        <script_from/>
+        <subject>${number} - ${short_description}</subject>
+        <sys_class_name>sys_email_client_template</sys_class_name>
+        <sys_created_by>mleighton</sys_created_by>
+        <sys_created_on>2018-07-06 20:45:12</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>02ad164bdb07d700d7f6138b4b961993</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>gip_email</sys_name>
+        <sys_package display_value="Global Indirect Procurement" source="x_tebc2_global_ind">be2b70b1db0fd300d7f6138b4b96190c</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Global Indirect Procurement">be2b70b1db0fd300d7f6138b4b96190c</sys_scope>
+        <sys_update_name>sys_email_client_template_02ad164bdb07d700d7f6138b4b961993</sys_update_name>
+        <sys_updated_by>ttaylor</sys_updated_by>
+        <sys_updated_on>2018-10-11 20:03:56</sys_updated_on>
+        <table>x_tebc2_global_ind_global_indirect_procurement</table>
+    </sys_email_client_template>
+</record_update>

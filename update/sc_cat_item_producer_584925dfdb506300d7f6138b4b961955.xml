@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_producer">
+    <sc_cat_item_producer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <can_cancel>true</can_cancel>
+        <category display_value="Supplier">443e117ddb8fd300d91118df4b96194c</category>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan/>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description/>
+        <entitlement_script/>
+        <flow_designer_flow/>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon>d3d74fa8db646700d91118df4b96199d</icon>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <list_price>0</list_price>
+        <location/>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Supplier Reassess</name>
+        <no_attachment_v2>false</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>false</no_cart_v2>
+        <no_delivery_time_v2>false</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>false</no_quantity_v2>
+        <no_search>false</no_search>
+        <no_wishlist_v2>false</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <picture>f2e7cfa8db646700d91118df4b9619d6</picture>
+        <post_insert_script/>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=584925dfdb506300d7f6138b4b961955&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <redirect_url>generated_record</redirect_url>
+        <request_method/>
+        <roles/>
+        <sc_catalogs>746a1df5db4fd300d7f6138b4b9619ce</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <script><![CDATA[if(producer.critical == "Yes"){
+	current.u_priority = "1 - Critical";
+	
+}
+
+current.u_item = "584925dfdb506300d7f6138b4b961955";]]></script>
+        <short_description>Supplier Reassess</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <sys_class_name>sc_cat_item_producer</sys_class_name>
+        <sys_created_by>mleighton</sys_created_by>
+        <sys_created_on>2018-09-07 14:52:53</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>584925dfdb506300d7f6138b4b961955</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Supplier Reassess</sys_name>
+        <sys_package display_value="Global Indirect Procurement" source="x_tebc2_global_ind">be2b70b1db0fd300d7f6138b4b96190c</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Global Indirect Procurement">be2b70b1db0fd300d7f6138b4b96190c</sys_scope>
+        <sys_update_name>sc_cat_item_producer_584925dfdb506300d7f6138b4b961955</sys_update_name>
+        <sys_updated_by>ttaylor</sys_updated_by>
+        <sys_updated_on>2019-03-20 21:57:50</sys_updated_on>
+        <table_name>x_tebc2_global_ind_global_indirect_procurement</table_name>
+        <template/>
+        <type>item</type>
+        <u_og_include>false</u_og_include>
+        <u_use_item_task_stages>true</u_use_item_task_stages>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <view/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item_producer>
+    <sys_translated_text action="delete_multiple" query="documentkey=584925dfdb506300d7f6138b4b961955"/>
+    <fx_price action="delete_multiple" query="id=584925dfdb506300d7f6138b4b961955"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>584925dfdb506300d7f6138b4b961955</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>mleighton</sys_created_by>
+        <sys_created_on>2018-09-07 14:52:53</sys_created_on>
+        <sys_id>7d79a5dfdb506300d7f6138b4b961900</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>mleighton</sys_updated_by>
+        <sys_updated_on>2018-09-07 14:52:53</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_price</field>
+        <id>584925dfdb506300d7f6138b4b961955</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>mleighton</sys_created_by>
+        <sys_created_on>2018-09-07 14:52:53</sys_created_on>
+        <sys_id>b579a5dfdb506300d7f6138b4b961902</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>mleighton</sys_updated_by>
+        <sys_updated_on>2018-09-07 14:52:53</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#ffffff</average_image_color>
+        <chunk_size_bytes>734003</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>icon</file_name>
+        <image_height>51</image_height>
+        <image_width>50</image_width>
+        <size_bytes>1527</size_bytes>
+        <size_compressed>912</size_compressed>
+        <state>available</state>
+        <sys_created_by>mleighton</sys_created_by>
+        <sys_created_on>2018-09-11 18:57:44</sys_created_on>
+        <sys_id>d3d74fa8db646700d91118df4b96199d</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>guest</sys_updated_by>
+        <sys_updated_on>2019-04-19 17:12:04</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item_producer</table_name>
+        <table_sys_id>584925dfdb506300d7f6138b4b961955</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAOsM8HPn5ZLiYmBg4PX0cAkC0kZAbMzBDCQf7V2txsDAzBDgE+K6QD7p////8+WT
+5zBE//vzb6l2zmyG8I8PXr6/+2wmQ8jLC3fm8MbMZoieJ5Hw7eWHR0cvf//w9VTP6qMtSxcpZayw
+LponFndu2sY31x4+Onjp1IS1V5bvvb3x2IGyWVvju76/+3Kobv6moOZrK/ff2XpiS1T7atfy3XlT
+V5qXrPWqvjB/+96i6Qsl0+7vOn1h9tbpDP5bYzt3pk9kGAWjgI7g2Jujc4AUZ4FHZDEDA98REGac
+qs0nDRRkL/H0dWV/xMktYKFTotFmCBZyjShxLC3JyC9iWLnujAdQiAck5JJanFyUWVCSmZ/HIMyp
+qAwU5wKJO+cXVBZlpmeUMKzhP2MFFOUDixalJoKUKpRk5qYymH7n5wQ5ASQTnJ9WUp5YlMoQW/Af
+pJwbbHhmcXJOIlBpEcP2A1v6gcIcIOHwxKK8zLx0hgPSz9phTgvOLy1KTmX4+r/5NUyZc35ubmpe
+CcO3M9P2A8XYQGIhmSU5qQwr3l1SZ2Bg3Obp4hji0Xl0Wm1+k4HAsfW+PKd9NIIWc14LUBcR/vfg
+d731bzdd783W03V2KzW9PL+83GYL67OksCon59U3y9l+CzazeDEbKCmIv3zXUVh84icvgwNX94ty
+jobGxo7pjTaPzvC0FxhuOjcvf6ujIKu3gtQxq8zi1ew8Fwu+3mcP/8Bf/sowpcMjIedI4bvuXNek
+Xv95Fq2zV+V5vd0X2OjeVlD4T6e174SdsCez8pNLy764Mz0qNpyqa1RybdGK2iA956s3z5lvVOY/
+82rH5COdPIrH7RXn7O/8cLfH6ufTjQ4cd/5Gi75Um8BVOWP18ahEpYcyh99fT5rhs3S7382TlpVr
+Eo9GnM0/nhgj/pDz6dHQ+J6Y1Mj/YYlfmWYk/ZroGP9nT9Ji5SimiSE2zkqfni/KcFnm1BdvUXmr
+4g1/6DfO6z+27A+MvKNTdk1l6oRurjbOy3qeR69cTPmX+/B6qqas2qonSqsPCn6ufjKx7ltc2NMb
+K7ZwRj6akPqSQ2thd1wnm+6WtoxjfXv2fREIZ98uFd0r7HWjdL7vxyIrm6hm6XM1tw8L6Lz6ZvCG
++/33rry7/Rd3FdeVCIv/sIqdIuf0O/O6edwe7Xlf6s1n9W+NtwOlYk9XP5d1TglNAGtoHXf3BQAA</data>
+        <length>1220</length>
+        <position>0</position>
+        <sys_attachment display_value="icon" sys_id="d3d74fa8db646700d91118df4b96199d">d3d74fa8db646700d91118df4b96199d</sys_attachment>
+        <sys_created_by>mleighton</sys_created_by>
+        <sys_created_on>2018-09-11 18:57:44</sys_created_on>
+        <sys_id>17d74fa8db646700d91118df4b96199d</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#ffffff</average_image_color>
+        <chunk_size_bytes>734003</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>picture</file_name>
+        <image_height>129</image_height>
+        <image_width>125</image_width>
+        <size_bytes>2510</size_bytes>
+        <size_compressed>1922</size_compressed>
+        <state>available</state>
+        <sys_created_by>mleighton</sys_created_by>
+        <sys_created_on>2018-09-11 18:57:58</sys_created_on>
+        <sys_id>f2e7cfa8db646700d91118df4b9619d6</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>guest</sys_updated_by>
+        <sys_updated_on>2019-04-22 19:44:04</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item_producer</table_name>
+        <table_sys_id>584925dfdb506300d7f6138b4b961955</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>2568</length>
+        <position>0</position>
+        <sys_attachment display_value="picture" sys_id="f2e7cfa8db646700d91118df4b9619d6">f2e7cfa8db646700d91118df4b9619d6</sys_attachment>
+        <sys_created_by>mleighton</sys_created_by>
+        <sys_created_on>2018-09-11 18:57:58</sys_created_on>
+        <sys_id>36e7cfa8db646700d91118df4b9619d6</sys_id>
+    </sys_attachment_doc>
+</record_update>

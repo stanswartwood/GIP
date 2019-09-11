@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_flow_record_trigger">
+    <sys_flow_record_trigger action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <condition table="question_answer">question=9f04c2c2dbcb1700d91118df4b961967^value=yes<item endquery="false" field="question" goto="false" newquery="false" operator="=" or="false" value="9f04c2c2dbcb1700d91118df4b961967"/>
+            <item endquery="false" field="value" goto="false" newquery="false" operator="=" or="false" value="yes"/>
+        </condition>
+        <name/>
+        <on_delete>false</on_delete>
+        <on_insert>true</on_insert>
+        <on_update>false</on_update>
+        <run_when_setting>both</run_when_setting>
+        <run_when_user_list/>
+        <run_when_user_setting>any</run_when_user_setting>
+        <sys_class_name>sys_flow_record_trigger</sys_class_name>
+        <sys_created_by>mleighton</sys_created_by>
+        <sys_created_on>2018-07-17 17:00:58</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>07145262db1f1340d91118df4b9619c9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Global Indirect Procurement" source="x_tebc2_global_ind">be2b70b1db0fd300d7f6138b4b96190c</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Global Indirect Procurement">be2b70b1db0fd300d7f6138b4b96190c</sys_scope>
+        <sys_update_name>sys_flow_record_trigger_07145262db1f1340d91118df4b9619c9</sys_update_name>
+        <sys_updated_by>mleighton</sys_updated_by>
+        <sys_updated_on>2018-07-17 17:52:56</sys_updated_on>
+        <table>question_answer</table>
+    </sys_flow_record_trigger>
+</record_update>

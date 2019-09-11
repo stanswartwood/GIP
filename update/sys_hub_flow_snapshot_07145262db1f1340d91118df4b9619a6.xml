@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_snapshot">
+    <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>If Yes = Redirect to AP email inbox, 
+If no submit ticket to Procurement Team</description>
+        <internal_name>gip_table_-_my_invoice_has_a_po_number</internal_name>
+        <label_cache>[{"name":"Created or Updated_1.current.lookup_unique","label":"Trigger➛Variable Record➛Unique values only","reference":"","reference_display":"Unique values only","type":"boolean","base_type":"boolean","parent_table_name":"item_option_new","column_name":"lookup_unique"},{"name":"Created or Updated_1.current.variable_name","label":"Trigger➛Variable Record➛Variable name","reference":"","reference_display":"Variable name","type":"string","base_type":"string","parent_table_name":"item_option_new","column_name":"variable_name"},{"name":"Created or Updated_1.current.choice_field","label":"Trigger➛Variable Record➛Choice field","reference":"","reference_display":"Choice field","type":"field_name","base_type":"field_name","parent_table_name":"item_option_new","column_name":"choice_field"},{"name":"Created or Updated_1.current","label":"Trigger➛Variable Record","reference":"item_option_new","reference_display":"Variable","type":"reference","base_type":"reference"},{"name":"71f214f5-8ed2-4e07-a21b-e6dbaf31a162.email","label":"1➛email","reference":"sys_email","reference_display":"email"}]</label_cache>
+        <master>false</master>
+        <name>GIP table - My Invoice has a PO Number</name>
+        <outputs/>
+        <parent_flow/>
+        <remote_trigger_id/>
+        <run_as>system</run_as>
+        <sc_callable>false</sc_callable>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow_snapshot</sys_class_name>
+        <sys_created_by>mleighton</sys_created_by>
+        <sys_created_on>2018-07-17 17:00:58</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>07145262db1f1340d91118df4b9619a6</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>GIP table - My Invoice has a PO Number</sys_name>
+        <sys_package display_value="Global Indirect Procurement" source="x_tebc2_global_ind">be2b70b1db0fd300d7f6138b4b96190c</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Global Indirect Procurement">be2b70b1db0fd300d7f6138b4b96190c</sys_scope>
+        <sys_update_name>sys_hub_flow_snapshot_07145262db1f1340d91118df4b9619a6</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-10-20 01:44:21</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow_snapshot>
+    <sys_variable_value action="delete_multiple" query="document_key=07145262db1f1340d91118df4b9619a6"/>
+</record_update>

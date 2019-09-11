@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy">
+    <sys_ui_policy action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <conditions table="x_tebc2_global_ind_global_indirect_procurement">u_cost_savings=true^u_total_savings_currency=other^EQ<item endquery="false" field="u_cost_savings" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="false" field="u_total_savings_currency" goto="false" newquery="false" operator="=" or="false" value="other"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </conditions>
+        <description/>
+        <global>true</global>
+        <inherit>false</inherit>
+        <isolate_script>true</isolate_script>
+        <model_id/>
+        <model_table/>
+        <on_load>true</on_load>
+        <order>100</order>
+        <reverse_if_false>true</reverse_if_false>
+        <run_scripts>false</run_scripts>
+        <script_false><![CDATA[function onCondition() {
+
+}]]></script_false>
+        <script_true><![CDATA[function onCondition() {
+
+}]]></script_true>
+        <set_values/>
+        <short_description>Hide Other Currency on Closure</short_description>
+        <sys_class_name>sys_ui_policy</sys_class_name>
+        <sys_created_by>ccampbell</sys_created_by>
+        <sys_created_on>2019-08-22 16:21:55</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>ed80d3e7db973700d7f6138b4b96197c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hide Other Currency on Closure</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Global Indirect Procurement" source="x_tebc2_global_ind">be2b70b1db0fd300d7f6138b4b96190c</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Global Indirect Procurement">be2b70b1db0fd300d7f6138b4b96190c</sys_scope>
+        <sys_update_name>sys_ui_policy_ed80d3e7db973700d7f6138b4b96197c</sys_update_name>
+        <sys_updated_by>ccampbell</sys_updated_by>
+        <sys_updated_on>2019-08-22 16:21:55</sys_updated_on>
+        <table>x_tebc2_global_ind_global_indirect_procurement</table>
+        <u_invisible/>
+        <u_mandatory/>
+        <u_read_only/>
+        <u_visible/>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_ui_policy>
+</record_update>

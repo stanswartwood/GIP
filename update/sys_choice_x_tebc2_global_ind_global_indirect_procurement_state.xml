@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="state" table="x_tebc2_global_ind_global_indirect_procurement" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Open</label>
+            <language>en</language>
+            <name>x_tebc2_global_ind_global_indirect_procurement</name>
+            <sequence>0</sequence>
+            <sys_created_by>ttaylor</sys_created_by>
+            <sys_created_on>2019-02-13 22:40:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>cc59ca66db6be700d91118df4b961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ttaylor</sys_updated_by>
+            <sys_updated_on>2019-02-13 22:40:39</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Work in Progress</label>
+            <language>en</language>
+            <name>x_tebc2_global_ind_global_indirect_procurement</name>
+            <sequence>1</sequence>
+            <sys_created_by>ttaylor</sys_created_by>
+            <sys_created_on>2019-02-13 22:40:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>405986e6db6be700d91118df4b961932</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ttaylor</sys_updated_by>
+            <sys_updated_on>2019-02-13 22:40:39</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Assigned</label>
+            <language>en</language>
+            <name>x_tebc2_global_ind_global_indirect_procurement</name>
+            <sequence>2</sequence>
+            <sys_created_by>ttaylor</sys_created_by>
+            <sys_created_on>2019-02-13 22:40:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>805986e6db6be700d91118df4b961934</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ttaylor</sys_updated_by>
+            <sys_updated_on>2019-02-13 22:40:39</sys_updated_on>
+            <value>9</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pending Legal/Procurement Approval</label>
+            <language>en</language>
+            <name>x_tebc2_global_ind_global_indirect_procurement</name>
+            <sequence>3</sequence>
+            <sys_created_by>ttaylor</sys_created_by>
+            <sys_created_on>2019-02-13 22:40:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>045986e6db6be700d91118df4b961936</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ttaylor</sys_updated_by>
+            <sys_updated_on>2019-02-13 22:40:39</sys_updated_on>
+            <value>8</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Document Execution</label>
+            <language>en</language>
+            <name>x_tebc2_global_ind_global_indirect_procurement</name>
+            <sequence>4</sequence>
+            <sys_created_by>ttaylor</sys_created_by>
+            <sys_created_on>2019-02-13 22:40:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>845986e6db6be700d91118df4b961938</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ttaylor</sys_updated_by>
+            <sys_updated_on>2019-02-13 22:40:39</sys_updated_on>
+            <value>10</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pending External Feedback</label>
+            <language>en</language>
+            <name>x_tebc2_global_ind_global_indirect_procurement</name>
+            <sequence>5</sequence>
+            <sys_created_by>ttaylor</sys_created_by>
+            <sys_created_on>2019-02-13 22:40:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>085986e6db6be700d91118df4b96193a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ttaylor</sys_updated_by>
+            <sys_updated_on>2019-02-13 22:40:39</sys_updated_on>
+            <value>11</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Closed Complete</label>
+            <language>en</language>
+            <name>x_tebc2_global_ind_global_indirect_procurement</name>
+            <sequence>6</sequence>
+            <sys_created_by>ttaylor</sys_created_by>
+            <sys_created_on>2019-02-13 22:40:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>885986e6db6be700d91118df4b96193c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ttaylor</sys_updated_by>
+            <sys_updated_on>2019-02-13 22:40:39</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Closed Incomplete</label>
+            <language>en</language>
+            <name>x_tebc2_global_ind_global_indirect_procurement</name>
+            <sequence>7</sequence>
+            <sys_created_by>ttaylor</sys_created_by>
+            <sys_created_on>2019-02-13 22:40:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>c85986e6db6be700d91118df4b96193e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ttaylor</sys_updated_by>
+            <sys_updated_on>2019-02-13 22:40:39</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <name>x_tebc2_global_ind_global_indirect_procurement</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>ttaylor</sys_created_by>
+            <sys_created_on>2019-02-13 22:40:39</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>89d5c0b0db40f3002568d2984b961947</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>state</sys_name>
+            <sys_package display_value="Global Indirect Procurement" source="x_tebc2_global_ind">be2b70b1db0fd300d7f6138b4b96190c</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global Indirect Procurement">be2b70b1db0fd300d7f6138b4b96190c</sys_scope>
+            <sys_update_name>sys_choice_x_tebc2_global_ind_global_indirect_procurement_state</sys_update_name>
+            <sys_updated_by>ttaylor</sys_updated_by>
+            <sys_updated_on>2019-02-13 22:40:39</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

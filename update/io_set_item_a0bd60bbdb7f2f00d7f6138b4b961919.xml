@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="INSERT_OR_UPDATE">
+        <order>200</order>
+        <sc_cat_item display_value="Reset my Password">d3d261b1dbcfd300d91118df4b961943</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>ttaylor</sys_created_by>
+        <sys_created_on>2019-03-01 23:28:29</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>a0bd60bbdb7f2f00d7f6138b4b961919</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>GIP Due Date.Reset my Password</sys_name>
+        <sys_package display_value="Global Indirect Procurement" source="x_tebc2_global_ind">be2b70b1db0fd300d7f6138b4b96190c</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Global Indirect Procurement">be2b70b1db0fd300d7f6138b4b96190c</sys_scope>
+        <sys_update_name>io_set_item_a0bd60bbdb7f2f00d7f6138b4b961919</sys_update_name>
+        <sys_updated_by>ttaylor</sys_updated_by>
+        <sys_updated_on>2019-03-20 21:25:45</sys_updated_on>
+        <variable_set display_value="GIP Due Date">ba7bacf7db7f2f00d7f6138b4b96198f</variable_set>
+    </io_set_item>
+</record_update>

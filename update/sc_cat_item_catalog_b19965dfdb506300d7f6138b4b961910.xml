@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Supplier Change">4af6695fdb506300d7f6138b4b961960</sc_cat_item>
+        <sc_catalog display_value="Global Indirect Procurement">746a1df5db4fd300d7f6138b4b9619ce</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>mleighton</sys_created_by>
+        <sys_created_on>2018-09-07 14:53:26</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>b19965dfdb506300d7f6138b4b961910</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Global Indirect Procurement.Change Supplier</sys_name>
+        <sys_package display_value="Global Indirect Procurement" source="x_tebc2_global_ind">be2b70b1db0fd300d7f6138b4b96190c</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Global Indirect Procurement">be2b70b1db0fd300d7f6138b4b96190c</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_b19965dfdb506300d7f6138b4b961910</sys_update_name>
+        <sys_updated_by>mleighton</sys_updated_by>
+        <sys_updated_on>2018-09-07 14:53:26</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

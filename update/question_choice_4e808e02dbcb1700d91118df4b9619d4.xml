@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <misc>0</misc>
+        <order>100</order>
+        <question display_value="Type">1e10ce8edb8b1700d91118df4b9619de</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>ttaylor</sys_created_by>
+        <sys_created_on>2018-07-03 16:02:56</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>4e808e02dbcb1700d91118df4b9619d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Goods</sys_name>
+        <sys_package display_value="Global Indirect Procurement" source="x_tebc2_global_ind">be2b70b1db0fd300d7f6138b4b96190c</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Global Indirect Procurement">be2b70b1db0fd300d7f6138b4b96190c</sys_scope>
+        <sys_update_name>question_choice_4e808e02dbcb1700d91118df4b9619d4</sys_update_name>
+        <sys_updated_by>ttaylor</sys_updated_by>
+        <sys_updated_on>2018-07-03 16:02:56</sys_updated_on>
+        <text>Goods</text>
+        <value>goods</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=4e808e02dbcb1700d91118df4b9619d4"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>4e808e02dbcb1700d91118df4b9619d4</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>ttaylor</sys_created_by>
+        <sys_created_on>2018-07-03 16:02:56</sys_created_on>
+        <sys_id>d490ce02dbcb1700d91118df4b96198d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>ttaylor</sys_updated_by>
+        <sys_updated_on>2018-07-03 16:02:56</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>4e808e02dbcb1700d91118df4b9619d4</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>ttaylor</sys_created_by>
+        <sys_created_on>2018-07-03 16:02:56</sys_created_on>
+        <sys_id>9c90ce02dbcb1700d91118df4b96198c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>ttaylor</sys_updated_by>
+        <sys_updated_on>2018-07-03 16:02:56</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>

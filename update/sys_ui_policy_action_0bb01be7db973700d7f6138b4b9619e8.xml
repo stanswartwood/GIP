@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>u_other_currency</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>ccampbell</sys_created_by>
+        <sys_created_on>2019-08-22 16:22:21</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>0bb01be7db973700d7f6138b4b9619e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_other_currency</sys_name>
+        <sys_package display_value="Global Indirect Procurement" source="x_tebc2_global_ind">be2b70b1db0fd300d7f6138b4b96190c</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Global Indirect Procurement">be2b70b1db0fd300d7f6138b4b96190c</sys_scope>
+        <sys_update_name>sys_ui_policy_action_0bb01be7db973700d7f6138b4b9619e8</sys_update_name>
+        <sys_updated_by>ccampbell</sys_updated_by>
+        <sys_updated_on>2019-08-22 16:22:21</sys_updated_on>
+        <table>x_tebc2_global_ind_global_indirect_procurement</table>
+        <ui_policy display_value="Hide Other Currency on Closure">ed80d3e7db973700d7f6138b4b96197c</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>

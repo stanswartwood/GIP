@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new_set">
+    <item_option_new_set action="INSERT_OR_UPDATE">
+        <create_roles/>
+        <description>Fill this in if you have a CER which is a project that begins with a 2. If you have an I&amp;D cost center it will start with a 6.</description>
+        <display_title>false</display_title>
+        <internal_name>project_code_vs</internal_name>
+        <layout>normal</layout>
+        <name>Project Code</name>
+        <order>100</order>
+        <read_roles/>
+        <sys_class_name>item_option_new_set</sys_class_name>
+        <sys_created_by>mleighton</sys_created_by>
+        <sys_created_on>2018-08-23 21:16:49</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>29717da6dbcc6300d91118df4b961972</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Project Code</sys_name>
+        <sys_package display_value="Global Indirect Procurement" source="x_tebc2_global_ind">be2b70b1db0fd300d7f6138b4b96190c</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Global Indirect Procurement">be2b70b1db0fd300d7f6138b4b96190c</sys_scope>
+        <sys_update_name>item_option_new_set_29717da6dbcc6300d91118df4b961972</sys_update_name>
+        <sys_updated_by>sswartwood</sys_updated_by>
+        <sys_updated_on>2019-07-10 19:33:12</sys_updated_on>
+        <title>Project Code</title>
+        <type>one_to_one</type>
+        <write_roles/>
+    </item_option_new_set>
+</record_update>

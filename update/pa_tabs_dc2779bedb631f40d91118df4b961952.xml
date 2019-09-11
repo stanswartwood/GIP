@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="INSERT_OR_UPDATE">
+        <canvas_page display_value="PA New Tab">9427717edb631f40d91118df4b9619c0</canvas_page>
+        <name><![CDATA[New Tab]]></name>
+        <page/>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>ntsausb</sys_created_by>
+        <sys_created_on>2018-07-30 19:48:32</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>dc2779bedb631f40d91118df4b961952</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Global Indirect Procurement" source="x_tebc2_global_ind">be2b70b1db0fd300d7f6138b4b96190c</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Global Indirect Procurement">be2b70b1db0fd300d7f6138b4b96190c</sys_scope>
+        <sys_update_name>pa_tabs_dc2779bedb631f40d91118df4b961952</sys_update_name>
+        <sys_updated_by>ntsausb</sys_updated_by>
+        <sys_updated_on>2018-07-30 19:48:32</sys_updated_on>
+    </pa_tabs>
+</record_update>

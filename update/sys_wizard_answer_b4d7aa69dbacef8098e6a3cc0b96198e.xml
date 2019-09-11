@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Global Indirect Procurement</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Global Indirect Procurement</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">b7ea27500f311100b176fb1792050ef4</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2018-09-14 19:11:40</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>b4d7aa69dbacef8098e6a3cc0b96198e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Global Indirect Procurement</sys_name>
+        <sys_package display_value="Global Indirect Procurement" source="x_tebc2_global_ind">be2b70b1db0fd300d7f6138b4b96190c</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Global Indirect Procurement">be2b70b1db0fd300d7f6138b4b96190c</sys_scope>
+        <sys_update_name>sys_wizard_answer_b4d7aa69dbacef8098e6a3cc0b96198e</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-09-14 19:11:40</sys_updated_on>
+        <table/>
+        <target_url>x_tebc2_global_ind_global_indirect_procurement.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

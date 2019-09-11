@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="28260db9db0fd300d7f6138b4b961912" sys_domain="global" table="x_tebc2_global_ind_global_indirect_procurement" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>mleighton</sys_created_by>
+            <sys_created_on>2018-07-02 17:09:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>ec260db9db0fd300d7f6138b4b961914</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_tebc2_global_ind_global_indirect_procurement" name="x_tebc2_global_ind_global_indirect_procurement" sys_domain="global" view="Default view">28260db9db0fd300d7f6138b4b961912</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_tebc2_global_ind_global_indirect_procurement" sys_domain="global" view="Default view">3014c5f5db0fd300d7f6138b4b961946</sys_ui_section>
+            <sys_updated_by>mleighton</sys_updated_by>
+            <sys_updated_on>2018-07-02 17:09:08</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>mleighton</sys_created_by>
+            <sys_created_on>2018-07-02 17:09:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>e8260db9db0fd300d7f6138b4b961915</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_tebc2_global_ind_global_indirect_procurement" name="x_tebc2_global_ind_global_indirect_procurement" sys_domain="global" view="Default view">28260db9db0fd300d7f6138b4b961912</sys_ui_form>
+            <sys_ui_section caption="Variables" display_value="Variables" name="x_tebc2_global_ind_global_indirect_procurement" sys_domain="global" view="Default view">e8260db9db0fd300d7f6138b4b961911</sys_ui_section>
+            <sys_updated_by>mleighton</sys_updated_by>
+            <sys_updated_on>2018-07-11 21:27:36</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>mleighton</sys_created_by>
+            <sys_created_on>2018-07-02 17:12:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>f3f6c1f9db0fd300d7f6138b4b9619b8</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_tebc2_global_ind_global_indirect_procurement" name="x_tebc2_global_ind_global_indirect_procurement" sys_domain="global" view="Default view">28260db9db0fd300d7f6138b4b961912</sys_ui_form>
+            <sys_ui_section caption="Notes/Activity" display_value="Notes/Activity" name="x_tebc2_global_ind_global_indirect_procurement" sys_domain="global" view="Default view">b7f6c1f9db0fd300d7f6138b4b9619b5</sys_ui_section>
+            <sys_updated_by>mleighton</sys_updated_by>
+            <sys_updated_on>2018-07-11 21:27:36</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>ttaylor</sys_created_by>
+            <sys_created_on>2019-02-18 21:53:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>076eaf84db7b6f00d91118df4b96199c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_tebc2_global_ind_global_indirect_procurement" name="x_tebc2_global_ind_global_indirect_procurement" sys_domain="global" view="Default view">28260db9db0fd300d7f6138b4b961912</sys_ui_form>
+            <sys_ui_section caption="Closure Information" display_value="Closure Information" name="x_tebc2_global_ind_global_indirect_procurement" sys_domain="global" view="Default view">0b6eaf84db7b6f00d91118df4b961999</sys_ui_section>
+            <sys_updated_by>ttaylor</sys_updated_by>
+            <sys_updated_on>2019-02-18 21:53:17</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_tebc2_global_ind_global_indirect_procurement</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>mleighton</sys_created_by>
+            <sys_created_on>2018-07-02 17:09:08</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>28260db9db0fd300d7f6138b4b961912</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>x_tebc2_global_ind_global_indirect_procurement</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Global Indirect Procurement" source="x_tebc2_global_ind">be2b70b1db0fd300d7f6138b4b96190c</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global Indirect Procurement">be2b70b1db0fd300d7f6138b4b96190c</sys_scope>
+            <sys_update_name>sys_ui_form_sections_28260db9db0fd300d7f6138b4b961912</sys_update_name>
+            <sys_updated_by>gfehnel</sys_updated_by>
+            <sys_updated_on>2018-08-20 21:23:44</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

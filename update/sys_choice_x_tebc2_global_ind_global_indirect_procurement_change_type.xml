@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="change_type" table="x_tebc2_global_ind_global_indirect_procurement" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>3</dependent_value>
+            <element>change_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Temporary credit limit increase</label>
+            <language>en</language>
+            <name>x_tebc2_global_ind_global_indirect_procurement</name>
+            <sequence>0</sequence>
+            <sys_created_by>ttaylor</sys_created_by>
+            <sys_created_on>2018-09-12 18:12:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>e1178c81db64a700d7f6138b4b9619c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ttaylor</sys_updated_by>
+            <sys_updated_on>2018-09-12 18:12:26</sys_updated_on>
+            <value>Temporary credit limit increase</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>d3f36db1dbcfd300d91118df4b9619cc</dependent_value>
+            <element>change_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Temporary credit limit increase</label>
+            <language>en</language>
+            <name>x_tebc2_global_ind_global_indirect_procurement</name>
+            <sequence>0</sequence>
+            <sys_created_by>ttaylor</sys_created_by>
+            <sys_created_on>2018-09-12 18:17:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>eb4800c1db64a700d7f6138b4b961946</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ttaylor</sys_updated_by>
+            <sys_updated_on>2018-09-12 18:17:46</sys_updated_on>
+            <value>Temporary credit limit increase</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>3</dependent_value>
+            <element>change_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Temporarily open a category</label>
+            <language>en</language>
+            <name>x_tebc2_global_ind_global_indirect_procurement</name>
+            <sequence>1</sequence>
+            <sys_created_by>ttaylor</sys_created_by>
+            <sys_created_on>2018-09-12 18:12:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>a9178c81db64a700d7f6138b4b9619ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ttaylor</sys_updated_by>
+            <sys_updated_on>2018-09-12 18:12:26</sys_updated_on>
+            <value>Temporarily open a category</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>d3f36db1dbcfd300d91118df4b9619cc</dependent_value>
+            <element>change_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Temporarily open a category</label>
+            <language>en</language>
+            <name>x_tebc2_global_ind_global_indirect_procurement</name>
+            <sequence>1</sequence>
+            <sys_created_by>ttaylor</sys_created_by>
+            <sys_created_on>2018-09-12 18:17:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>af4800c1db64a700d7f6138b4b961948</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ttaylor</sys_updated_by>
+            <sys_updated_on>2018-09-12 18:17:46</sys_updated_on>
+            <value>Temporarily open a category</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>d3f36db1dbcfd300d91118df4b9619cc</dependent_value>
+            <element>change_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_tebc2_global_ind_global_indirect_procurement</name>
+            <sequence>2</sequence>
+            <sys_created_by>ttaylor</sys_created_by>
+            <sys_created_on>2018-09-12 18:17:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>234800c1db64a700d7f6138b4b96194b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ttaylor</sys_updated_by>
+            <sys_updated_on>2018-09-12 18:17:46</sys_updated_on>
+            <value>Other</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>3</dependent_value>
+            <element>change_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_tebc2_global_ind_global_indirect_procurement</name>
+            <sequence>2</sequence>
+            <sys_created_by>ttaylor</sys_created_by>
+            <sys_created_on>2018-09-12 18:12:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>25174cc1db64a700d7f6138b4b9619f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ttaylor</sys_updated_by>
+            <sys_updated_on>2018-09-12 18:12:26</sys_updated_on>
+            <value>Other</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>change_type</element>
+            <name>x_tebc2_global_ind_global_indirect_procurement</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>ttaylor</sys_created_by>
+            <sys_created_on>2018-09-12 18:12:26</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>23b77ea5db6023c098e6a3cc0b9619a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>change_type</sys_name>
+            <sys_package display_value="Global Indirect Procurement" source="x_tebc2_global_ind">be2b70b1db0fd300d7f6138b4b96190c</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global Indirect Procurement">be2b70b1db0fd300d7f6138b4b96190c</sys_scope>
+            <sys_update_name>sys_choice_x_tebc2_global_ind_global_indirect_procurement_change_type</sys_update_name>
+            <sys_updated_by>ttaylor</sys_updated_by>
+            <sys_updated_on>2018-09-12 18:12:26</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

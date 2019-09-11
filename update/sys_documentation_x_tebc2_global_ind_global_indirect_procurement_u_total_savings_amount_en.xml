@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_total_savings_amount" label="Total Savings-Amount" language="en" table="x_tebc2_global_ind_global_indirect_procurement">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_total_savings_amount</element>
+            <help/>
+            <hint/>
+            <label>Total Savings-Amount</label>
+            <language>en</language>
+            <name>x_tebc2_global_ind_global_indirect_procurement</name>
+            <plural>Total Savings-Amounts</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>ccampbell</sys_created_by>
+            <sys_created_on>2019-08-22 16:05:37</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>42fc87a3db973700d7f6138b4b9619b5</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Total Savings-Amount</sys_name>
+            <sys_package display_value="Global Indirect Procurement" source="x_tebc2_global_ind">be2b70b1db0fd300d7f6138b4b96190c</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Global Indirect Procurement">be2b70b1db0fd300d7f6138b4b96190c</sys_scope>
+            <sys_update_name>sys_documentation_x_tebc2_global_ind_global_indirect_procurement_u_total_savings_amount_en</sys_update_name>
+            <sys_updated_by>ccampbell</sys_updated_by>
+            <sys_updated_on>2019-08-23 20:44:16</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

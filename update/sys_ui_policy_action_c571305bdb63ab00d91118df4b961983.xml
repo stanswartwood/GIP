@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>close_notes</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>ttaylor</sys_created_by>
+        <sys_created_on>2019-02-16 00:12:32</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>c571305bdb63ab00d91118df4b961983</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>close_notes</sys_name>
+        <sys_package display_value="Global Indirect Procurement" source="x_tebc2_global_ind">be2b70b1db0fd300d7f6138b4b96190c</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Global Indirect Procurement">be2b70b1db0fd300d7f6138b4b96190c</sys_scope>
+        <sys_update_name>sys_ui_policy_action_c571305bdb63ab00d91118df4b961983</sys_update_name>
+        <sys_updated_by>ttaylor</sys_updated_by>
+        <sys_updated_on>2019-02-16 00:12:32</sys_updated_on>
+        <table>x_tebc2_global_ind_global_indirect_procurement</table>
+        <ui_policy display_value="Make Close code and Close notes mandatory">e4e92d88db412b00d91118df4b9619f9</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>
